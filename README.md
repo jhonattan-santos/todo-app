@@ -1,2 +1,2 @@
 # Todo-app
-To-do app made on course to learn react
+to-do app made on course to learn react
