@@ -26,7 +26,7 @@ export default props => {
             <thead>
                 <tr>
                     <th scope="col">Description</th>
-                    <th scope="col">Actions</th>
+                    <th scope="col" className="todoActions">Actions</th>
                 </tr>
             </thead>
             <tbody>

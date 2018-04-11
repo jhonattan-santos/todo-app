@@ -1,9 +1,17 @@
 .btn {
     width: 44px;
-    margin-right: 10px;
+    margin-right: 5px;
 }
 
 .markAsDone {
     color: #777;
     text-decoration: line-through;
+}
+
+.todoForm {
+    margin-bottom: 90px;
+}
+
+.todoActions {
+    width: 140px;
 }
